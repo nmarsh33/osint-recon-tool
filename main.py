@@ -20,7 +20,7 @@ def main():
                 print(f"Not found on {platform}")
 
     else:
-        print("⚠️ Use --username to search (e.g., python main.py --username johndoe)")
+        print("Use --username to search (e.g., python main.py --username johndoe)")
 
 if __name__ == "__main__":
     main()
